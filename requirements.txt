@@ -1,6 +1,11 @@
 fastapi
-uvicorn
+uvicorn[standard]
 torch
 transformers
-pillow
 sentencepiece
+protobuf
+Pillow
+python-multipart
+aiofiles
+regex
+numpy
